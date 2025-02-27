@@ -1,5 +1,5 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE: 27.02.2025
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -53,9 +53,9 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+![Screenshot 2025-02-27 151842](https://github.com/user-attachments/assets/3c2e7f1e-757e-447a-b124-77711e8c11fd)
 
-
-
+![Screenshot 2025-02-27 152636](https://github.com/user-attachments/assets/31e97d16-0da9-4d18-9943-dfe67c237464)
 ### PREPROCESSING
 ### Procedure:
 #### 1) Add -> Pre-Processing Technique:
@@ -75,6 +75,10 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+![Screenshot 2025-02-27 151922](https://github.com/user-attachments/assets/5bd66ff0-5f26-46f2-8f56-84d65f6ddab5)
+
+
+![Screenshot 2025-02-27 152744](https://github.com/user-attachments/assets/a9d3ec39-5fc7-4f4e-8f11-de1eb5e3f925)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +95,10 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/5c2e267d-7575-40c5-9e37-1fb53ee964db)
+
+
+![Screenshot 2025-02-27 152804](https://github.com/user-attachments/assets/b7671744-a005-4990-a10c-89821d147074)
 
 ### Normalize -> Pre-Processing Technique:
 
@@ -107,5 +115,13 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+
+![Screenshot 2025-02-27 152043](https://github.com/user-attachments/assets/353c001c-3b27-4836-a6ae-9f69098022d8)
+
+![Screenshot 2025-02-27 152851](https://github.com/user-attachments/assets/8eb89015-aca1-4669-890e-87d82055cdb4)
+
+
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
